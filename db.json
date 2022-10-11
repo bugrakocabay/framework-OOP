@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "patates",
+      "age": 2
+    },
+    {
+      "name": "cemssettin",
+      "age": 23532,
+      "id": 2
+    },
+    {
+      "name": "cemssettin",
+      "age": 23532,
+      "id": 3
+    },
+    {
+      "name": "patates",
+      "age": 2,
+      "id": 4
+    }
+  ]
+}
